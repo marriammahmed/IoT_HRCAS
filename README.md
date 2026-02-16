@@ -1,4 +1,4 @@
-<h1>ESP32 IoT Heat Risk & Climate Adaptive Safety System/h1>
+<h1>ESP32 IoT Heat Risk & Climate Adaptive Safety System</h1>
 
 <h2>Description</h2>
 This project consists of an <b>ESP32-S2 based IoT heat monitoring and automated safety system</b> designed for real-time environmental monitoring in healthcare, laboratory, or server room environments.  
@@ -12,6 +12,11 @@ The device connects securely to the cloud (ThingsBoard) using the <b>MQTT protoc
 Developed as part of an Embedded Systems & IoT course project, this system demonstrates practical implementation of real-time systems, networking protocols, hardware-software integration, and resilient edge computing design.
 
 <br />
+<h2>Presentation</h2>
+
+📊 <b>View the presentation here:</b>  
+🔗 <a href="https://github.com/marriammahmed/IoT_HRCAS/blob/main/HRCAS%20(1).pptx">Download Presentation (HRCAS)</a>
+
 <br />
 <br />
 
