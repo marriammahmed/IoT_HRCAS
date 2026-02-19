@@ -36,12 +36,6 @@ This course focused on embedded systems, real-time processing, IoT communication
 The project demonstrates a full-stack IoT workflow:
 Sensor → Microcontroller → Local Decision Logic → Cloud Platform → Visualization Dashboard
 
-<br />
-
-<h2>Presentation</h2>
-
-📊 <b>View the presentation slides here:</b>  
-<a href="YOUR_PRESENTATION_LINK_HERE">Google Slides</a>
 
 <br />
 
